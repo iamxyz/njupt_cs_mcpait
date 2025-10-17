@@ -1,0 +1,8 @@
+;njupt_cs_mcpait.inc source code 
+;Coding by Yulong Deng, 2025-10-13
+;Version 1.0
+
+EXTERN OUTPUT_STRING:PROC
+EXTERN INPUT_STRING:PROC
+EXTERN OUTPUT_CHAR:PROC
+EXTERN INPUT_CHAR:PROC
